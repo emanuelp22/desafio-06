@@ -1,0 +1,176 @@
+body {
+  background-color: #1F2023;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  border-bottom: 20px solid #4D6D63;
+  border-top: 20px solid #4D6D63;
+  border-left: 20px solid #1F2023;
+  border-right: 20px solid #1F2023;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+
+.fieldset-1{
+    background-color: #D6E2DE;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px;
+  }
+  
+
+  .p1 {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 40px;
+  }
+
+  .inp-1{
+    margin-left: 15%;
+    width: 65%;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+
+  legend {
+    background-color:#4D6D63;
+    padding: 14px 70px;
+    color: white;
+    border-radius: 7px;
+    
+    
+  }
+
+  fieldset {
+   border: none;
+  }
+
+  .lbl-1 {
+    margin-left: 45%;
+    font-size: 20px;
+  }
+
+  .lbl-1b {
+    margin-left: 44%;
+
+    font-size: 20px;
+  }
+
+  .lbl-1c {
+    margin-left: 40%;
+    font-size: 20px;
+    margin-bottom:10px ;
+  }
+
+  .inp-2{
+    margin-left: 15%;
+    width: 65%;
+    height: 40px;
+    color: #666769;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  .area{
+    margin-left: 15%;
+    width: 65%;
+    height: 150px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .lbl-2 {
+    
+    font-size: 20PX;
+
+  }
+
+  .lbl-3 {
+    font-size: 20PX;
+    
+
+  }
+
+  .div-lbl {
+    margin-top: 10px;
+    margin-left: 35%;
+    margin-bottom: 40px;
+  }
+
+  .puntos {
+    border-bottom: dotted white;
+    border-width: 20px;
+    height: 40px;
+    margin-right: 39%;
+    margin-left: 39%;
+    margin-bottom: 20px;
+  }
+
+  .margin-1 {
+    margin-top: 30px;
+  }
+
+  .margin-2 {
+    margin-bottom: 20px;
+  }
+
+  .lbl-1d{
+    margin-left: 37%;
+    font-size: 20px;
+    margin-bottom:10px ;
+  }
+
+  .inp-4{
+    margin-left: 15%;
+    width: 65%;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: end;
+    font-size: 20px;
+  }
+
+  .sede {
+    font-size: 25px;
+  }
+
+  .terminos {
+    color: white;
+    font-size: 20px;
+  }
+
+  .terminos-inp {
+    margin-left: 20%;
+    color: white;
+    font-size: 20px;
+  }
+
+  .terminos-div{
+    margin-top: 50px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #2B3D37;
+    color: #4D6D63;
+    font-size: 20px;
+    border-radius: 5px;
+  }
+
+  .boton{
+    margin-left: 40%;
+    
+  }
+
+  .formulario-pseudoclase input:focus {
+    background-color: #2B3D37;
+  }
