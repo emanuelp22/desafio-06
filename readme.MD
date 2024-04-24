@@ -6,3 +6,6 @@ ejercicio 2 retro : https://monumental-biscochitos-d660cc.netlify.app
 
 ejercicio 3 futuro: https://dynamic-kelpie-505412.netlify.app
 
+Alumno : Emanuel Placánica.
+
+boot : 71370
